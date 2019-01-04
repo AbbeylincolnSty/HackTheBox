@@ -3,7 +3,7 @@
 ### Difficulty: Easy
 ### IP: 10.10.10.3
 
-### Conduct Initial NMap Scan:
+### Enumeration Using Nmap:
 ![nmap screenshot](/images/nmap.png)
 * Flags:
   * -T4 : Aggressive (4) speed scans; assumes a fast and reliable network.
@@ -13,7 +13,7 @@
 
 * After looking at the scan results, one sees it is a Unix box running Samba 3.0.20-Debian. 
 
-### Search and Use an Exploit:
+### Exploitation:
 ![metasploit exploit search](/images/exploit_search.png)
 * After opening the Metasploit Framework, conduct a search using the above command specifying the exploit type and samba.
 * Looking at the multi category (unix) for excellent ranked exploits, we see the usermap_script exploit.
