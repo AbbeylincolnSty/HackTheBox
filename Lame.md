@@ -5,4 +5,3 @@
 
 ###Conduct Initial NMap Scan:
 ![nmap screenshot](/images/nmap.png)
-Format: ![Alt Text](url)
