@@ -17,10 +17,11 @@
 ![metasploit exploit search](/images/exploit_search.png)
 * After opening the Metasploit Framework, conduct a search using the above command specifying the exploit type and samba.
 * Looking at the multi category (unix) for excellent ranked exploits, we see the usermap_script exploit.
+
+![use exploit](/images/exploit.png)
 * Use the selected exploit.
 * Set rhost to 10.10.10.3 target.
 * Run exploit. 
-![use exploit](/images/exploit.png)
 
 Do a happy dance! 😎😎😎
 
