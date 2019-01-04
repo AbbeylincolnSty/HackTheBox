@@ -2,6 +2,7 @@
 ### Date Completed: 03 January 2019
 ### Difficulty: Easy
 ### IP: 10.10.10.3
+### OS: UNIX
 
 ### Enumeration Using Nmap:
 ![nmap screenshot](/images/lame/nmap.png)
