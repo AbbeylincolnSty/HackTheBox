@@ -1,7 +1,8 @@
 # Grandpa Box Write-Up
+### Author: Luke DuCharme (@_nTr0py)
 ### Date Completed: 04 January 2019
 ### Difficulty: Easy
-### IP: 10.10.10.14\
+### IP: 10.10.10.14
 ### OS: Windows
 
 ### Enumberation Using Nmap:
