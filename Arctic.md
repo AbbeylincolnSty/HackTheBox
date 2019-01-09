@@ -38,9 +38,8 @@
 ![test](/img/arctic/test.png)
 * Browse to localhost:8500 to test the listener in a web browser. If intercept is on in Burp, make sure to forward the request.
 
-![exploit2](/img/arctic/exploit2.png)
 * Go back to Metasploit and set rhost to 127.0.0.1 and exploit (Make sure intercept is on in Burp).
-![exploit3](/images/arctic/exploit3)
+
 * Go to Burp and copy the POST request on the Proxy/intercept tab to the repeater tab on the request side.
 * Drop the POST request from the Proxy/intercept tab.
 
