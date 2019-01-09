@@ -1,4 +1,5 @@
 # Lame Box Write-Up
+### Author: Luke DuCharme (@_nTr0py)
 ### Date Completed: 03 January 2019
 ### Difficulty: Easy
 ### IP: 10.10.10.3
